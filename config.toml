@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My New Site"
 theme = "hyde"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
@@ -18,3 +18,8 @@ min_version = 0.53
 [params]
 themeColor = "theme-base-09"
 description = "With theme"
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/desirajusantosh/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/desirajusantosh/"}
+  ]
