@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hyde"
-description = "With theme"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
 min_version = 0.53
@@ -18,3 +17,4 @@ min_version = 0.53
     repo = "https://www.github.com/mdo/hyde"
 [params]
 themeColor = "theme-base-09"
+description = "With theme"
