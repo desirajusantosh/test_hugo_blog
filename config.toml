@@ -41,9 +41,9 @@ enableGitInfo = false
   name = "Santosh Desiraju"
   bio = "Howdy!"
 
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "hero.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  location = "San Francisco"
+  location = "Mountain View"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -71,25 +71,25 @@ enableGitInfo = false
   [[params.social]]
     icon = "instagram"
     icon_pack = "fa"
-    link = "//instagram.com/joshuahu.io"
+    link = "//instagram.com/dsantoshb"
     text = "Instagram"
 
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/joshua-hu-12290a43"
+    link = "//linkedin.com/in/desirajusantosh"
     text = "LinkedIn"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/jhu247"
+    link = "//twitter.com/optimumprimes"
     text = "Twitter"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jhu247"
+    link = "//github.com/desirajusantosh"
     text = "Github"
 
   # Header menu links
