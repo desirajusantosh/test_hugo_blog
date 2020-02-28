@@ -7,7 +7,7 @@ title = "Minimal Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Joshua Hu 2018"
+copyright = "&copy; Santosh Desiraju 2020"
 
 theme = "minimal-academic"
 enableEmoji = true
@@ -41,7 +41,7 @@ enableGitInfo = false
   name = "Santosh Desiraju"
   bio = "Howdy!"
 
-  avatar = "hero.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "potrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   location = "Mountain View"
 
