@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 hero_image: "hero.jpg"
-date: 2018-07-24T17:44:36-07:00
+date: 2020-02-28T17:44:36-07:00
 description: "This is my first post"
 ---
 
